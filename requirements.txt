@@ -4,7 +4,6 @@ datasets
 sacrebleu
 rouge_score
 py7zr
-Pyrebase4
 pandas
 nltk
 tqdm
@@ -14,6 +13,7 @@ torch
 notebook
 boto3
 mypy-boto3-s3
+pyzstd==0.15.9
 python-box==6.0.2
 ensure==1.0.2
 fastapi==0.78.0
