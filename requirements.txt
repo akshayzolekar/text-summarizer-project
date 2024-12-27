@@ -4,6 +4,7 @@ datasets
 sacrebleu
 rouge_score
 py7zr
+Pyrebase4
 pandas
 nltk
 tqdm
